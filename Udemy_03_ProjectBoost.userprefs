@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{1FDB32FB-2C44-2BAF-6617-86CD24A587A7}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Rocket.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Oscillator.cs">
     <Files>
-      <File FileName="Assets/Scripts/Rocket.cs" Line="71" Column="14" />
+      <File FileName="Assets/Scripts/Rocket.cs" Line="66" Column="32" />
+      <File FileName="Assets/Scripts/Oscillator.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
