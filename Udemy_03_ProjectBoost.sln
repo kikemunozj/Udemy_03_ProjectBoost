@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy_03_ProjectBoost", "Udemy_03_ProjectBoost.csproj", "{1FDB32FB-2C44-2BAF-6617-86CD24A587A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy_03_ProjectBoost.Editor", "Udemy_03_ProjectBoost.Editor.csproj", "{6BE13447-F76A-6E49-FE23-BB56A91C54FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FDB32FB-2C44-2BAF-6617-86CD24A587A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDB32FB-2C44-2BAF-6617-86CD24A587A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDB32FB-2C44-2BAF-6617-86CD24A587A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDB32FB-2C44-2BAF-6617-86CD24A587A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE13447-F76A-6E49-FE23-BB56A91C54FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE13447-F76A-6E49-FE23-BB56A91C54FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE13447-F76A-6E49-FE23-BB56A91C54FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE13447-F76A-6E49-FE23-BB56A91C54FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
